@@ -1,4 +1,4 @@
-#Validate that each user has a full name
+#Validate that each user has a full name that the text is entered 
 
 full_name = input ("Enter your full name (first and last names): ")
 
