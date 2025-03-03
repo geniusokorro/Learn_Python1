@@ -19,7 +19,7 @@ for i,j in dict_name.items()
 
 print("Welcome to the total stock calculator for the resturant 🥧")
 #Menu list holding all the products that are sold
-menu = ['Beans', 'Rice', 'Spaghetti', 'Sauce-de-gombo', 'Fried Plaintain']
+menu = ['Beans', 'Rice', 'Spaghetti', 'Sauce-de-gombo', 'Fried Plaintain'] #List of menu items
 #Stock dictionary with menu items as keys and the quantity as value
 stock = {'Beans' : 20,
          'Rice' : 15,
